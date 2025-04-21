@@ -1,11 +1,6 @@
 ## Hi there 👋
 I'm Nick, a Full Stack Developer with a strong passion for JavaScript and web technologies. I thrive in the dynamic world of Web Development, constantly refining my skills and expanding my knowledge to deliver high-quality digital experiences.
 
-- 🔭 I’m currently working on enchancing my skills as a Full Stack Developer
-- 🌱 I’m currently learning TypeScript, SQL, and PostgreSQL to strengthen my backend and database skills.
-- 🤔 I’m looking for help with best practices in full-stack development and real-world project experience.
-- 💡 I’m also exploring modern web frameworks and integrations to build scalable applications.
-- ⚡ Fun fact: I play three music instruments
 </br>
 <a href="mailto:nikitachabanets@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.linkedin.com/in/nikita-chabanets"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
